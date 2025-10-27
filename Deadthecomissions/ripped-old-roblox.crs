@@ -1,0 +1,45 @@
+﻿[Arrow]
+Path=ROBLOX Cursor 2006.cur
+
+[Help]
+Path=ROBLOX Cursor 2006 Help.cur
+
+[AppStarting]
+Path=ROBLOX Cursor 2006 Work.cur
+
+[Wait]
+Path=ROBLOX Cursor 2006 Busy.cur
+
+[IBeam]
+Path=ROBLOX Cursor 2006 Text.cur
+
+[NWPen]
+Path=ROBLOX Cursor 2006 Pencil.cur
+
+[No]
+Path=ROBLOX Cursor 2006 Unavailable.cur
+
+[SizeNS]
+Path=ROBLOX Cursor 2006 Vertical.cur
+
+[SizeWE]
+Path=ROBLOX Cursor 2006 Horizontal.cur
+
+[SizeNWSE]
+Path=ROBLOX Cursor 2006 Diagonal.cur
+
+[SizeNESW]
+Path=ROBLOX Cursor 2006 Diagonal 2.cur
+
+[SizeAll]
+Path=ROBLOX Cursor 2006 Move.cur
+
+[UpArrow]
+Path=ROBLOX Cursor 2006 Alt.cur
+
+[Hand]
+Path=ROBLOX Cursor 2006 Link.cur
+
+[Crosshair]
+Path=ROBLOX Cursor 2006 Precision V2.cur
+
